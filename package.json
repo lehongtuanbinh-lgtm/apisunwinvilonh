@@ -1,0 +1,18 @@
+{
+  "name": "sun-prediction-api",
+  "version": "1.0.0",
+  "description": "API Phân Tích Thuật Toán Sun AI By Vi Long",
+  "main": "sun.js",
+  "scripts": {
+    "start": "node sun.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Vi Long Elite",
+  "license": "ISC"
+}
